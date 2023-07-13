@@ -1,0 +1,6 @@
+{
+    "api_keys": {
+      "openai": "insert_api_key_here",
+      "elevenlabs": "insert_api_key_here"
+    }
+}
