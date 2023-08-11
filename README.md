@@ -35,7 +35,7 @@ To use this code repository, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed along with required libraries mentioned in the `requirements.txt` file.
-3. Retrieve your `OpenAI` and `ElevenLabs` API keys and place inside the `api_keys.json`. 
+3. Retrieve your `OpenAI` and `ElevenLabs` API keys and place inside the `api_keys.json`. See resources below for instructions on how to retrieve these API keys.
 4. Run every cell in the entire notebook `3_Part_Story_Pipeline.ipynb`.
 5. Congrats! You now have a 100% AI generated video that is Youtube-ready! 😁
 
