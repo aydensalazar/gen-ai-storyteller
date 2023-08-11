@@ -23,9 +23,9 @@ Necessary components to generate video:
 
 ## Repository Contents 📂
 
-- `3_Part_Story_Pipeline.ipynb` - Python notebook which can be run to generate a scary storytelling video. A topic can be either automatically or manually entered. 
-- `3_Part_Story_Pipeline_Demo.ipynb` - Presentation notebook for presenting the step-by-step breakdown of the code (not intended for actualy video creation purposes)
-- `storytelling_utils.py` - Python file that contains all the utility functions used to generate a story. Running these functions in series should produce a video. 
+- `3_Part_Story_Pipeline.ipynb` - Python notebook which can be run to generate a scary storytelling video. A topic can be either automatically or manually entered. Running these functions in series should produce a video. 
+- `3_Part_Story_Pipeline_Demo.ipynb` - Presentation notebook for presenting the step-by-step breakdown of the code (not intended for actual video creation purposes)
+- `storytelling_utils.py` - Python file that contains all the utility functions used to generate a story. 
 - `api_keys.json` - used to store API keys for usage in notebook; notebook code will not run until you enter your own api keys for OpenAI and ElevenLabs! 
 - `data/story_topics.csv` - contains a list of pre-populated story topics to allow user to automatically choose a topic rather than manually entering one 
 - `data/music/` - contains background music assets for the video
